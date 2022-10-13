@@ -34,6 +34,3 @@ func Response_Url(url string, cats_data chan string) {
 	cats_data <- string(body)
 }
 
-func Cats_id_name(id string, name string)  {
-	
-}

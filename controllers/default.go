@@ -3,14 +3,9 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-
 	beego "github.com/beego/beego/v2/server/web"
 )
 
-type Example struct {
-	Name string
-	Age  int
-}
 type MainController struct {
 	beego.Controller
 }
