@@ -1,6 +1,7 @@
 go.mod
-go.sum
-hello
+go.sum 
 lastupdate.tmp
 .exe
 .env
+assignment.exe
+assignment.exe~
